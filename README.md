@@ -1,4 +1,3 @@
-Here’s a polished **README for “Aalam Store Data Analysis”** in the same format as your Vrinda project 👇
 
 ---
 
@@ -13,6 +12,7 @@ The Aalam Store aims to create an annual sales report for 2024 to better underst
 ## 📁 Dataset Used
 
 * Sales dataset containing order details, customer demographics, product categories, and delivery status.
+* <a href="https://github.com/arpiztech/Data-Analysis-Dashboard/blob/main/Aalam%20Store%20Report.xlsx">Aalam Store Dataset</a>
 
 ---
 
