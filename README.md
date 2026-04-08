@@ -44,6 +44,7 @@ The Aalam Store aims to create an annual sales report for 2024 to better underst
 
 * Interactive Excel dashboard with slicers for category, state, and channel.
 * Visual representation using charts (bar, pie, line) for better insights.
+*  <a href="https://github.com/arpiztech/Data-Analysis-Dashboard/blob/main/Aalam%20Report.png">View Dashboard</a>
 
 ---
 
